@@ -14,6 +14,12 @@ Types of changes:
 - `Fixed`: for any bug fixes.
 - `Security`: in case of vulnerabilities.
 
+## [2.0.0] - 2023-01-17
+
+### Added
+
+- .gitignore file.
+
 ## [1.0.0] - 2023-01-13
 
 ### Added
