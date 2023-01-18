@@ -14,6 +14,12 @@ Types of changes:
 - `Fixed`: for any bug fixes.
 - `Security`: in case of vulnerabilities.
 
+## [3.0.0] - 2023-01-18
+
+### Added
+
+- index.ts file
+
 ## [2.0.1] - 2023-01-17
 
 ### Fixed
