@@ -14,6 +14,12 @@ Types of changes:
 - `Fixed`: for any bug fixes.
 - `Security`: in case of vulnerabilities.
 
+## [4.0.0] - 2023-01-19
+
+### Changed
+
+- Update README
+
 ## [3.0.0] - 2023-01-18
 
 ### Added
